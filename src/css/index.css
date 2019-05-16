@@ -19,7 +19,7 @@ body {
   border-radius: 1%;
   box-shadow: 3px black;
 
-  & .metal{
+  & .metal {
     height: 90px;
     width: 160px;
     background-image: linear-gradient(#ebebe0, #c2c2a3);
