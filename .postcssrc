@@ -13,7 +13,7 @@
             }
         },
         "postcss-font-magician":true,
-        "autofixer": true,
+        "autoprefixer": true,
         "postcss-clean": true
     }
 }

@@ -14,7 +14,10 @@
     "postcss": "^7.0.16"
   },
   "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "postcss-clean": "^1.1.0",
     "postcss-easy-import": "^3.0.0",
+    "postcss-font-magician": "^2.2.1",
     "postcss-mixins": "^6.2.1",
     "postcss-preset-env": "^6.6.0",
     "stylelint": "^10.0.1"
