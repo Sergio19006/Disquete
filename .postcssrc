@@ -2,7 +2,7 @@
     "plugins":{
         "postcss-easy-import": {
             "prefix": "_",
-            "extensions": ["pcss","css"]
+            "extensions": [".pcss",".css"]
         },
         "postcss-mixins":true,
         "postcss-preset-env" :{

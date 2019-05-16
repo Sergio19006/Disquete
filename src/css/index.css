@@ -18,16 +18,16 @@ body {
   flex-direction: column;
   border-radius: 1%;
   box-shadow: 3px black;
-}
 
-.metal {
-  height: 90px;
-  width: 160px;
-  background-image: linear-gradient(#ebebe0, #c2c2a3);
-  border-radius: 5%;
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
+  & .metal{
+    height: 90px;
+    width: 160px;
+    background-image: linear-gradient(#ebebe0, #c2c2a3);
+    border-radius: 5%;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
 }
 
 .negro {
